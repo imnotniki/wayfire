@@ -42,6 +42,11 @@ family = "JetBrainsMono Nerd Font"
 style = "Bold Italic"
 
 [[keyboard.bindings]]
+key = "X"
+mods = "Control"
+chars = "\u0003"
+
+[[keyboard.bindings]]
 key = "C"
 mods = "Control"
 action = "Copy"
